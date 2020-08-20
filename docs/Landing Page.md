@@ -7,12 +7,18 @@
 - Explore your APIs, track dependencies and view changelogs
 - Invite team members to collaborate on API assets
 - Create and update API designs and documentation
+***
 
+## Getting Started
 <!-- theme: info -->
+>Dig into the [documentation and quickstarts](https://meta.stoplight.io) to govern, design, and document APIs. The workspace has you covered with everything from an interactive API explorer, automatic mock servers, OpenAPI designer, API console, code samples in your favorite languages, and comprehensive examples.
 
->Dig into our [documentation and quickstarts](https://meta.stoplight.io) to govern, design, and document APIs. The workspace has you covered with everything from an interactive API explorer, automatic mock servers, OpenAPI designer, API console, code samples in your favorite languages, and comprehensive examples.
+## API Discovery
 
-* * *
+Use the `Explorer` funcionality to search for APIs. Get ***mock server*** URLs, send requests, navigate ***dependency graphs*** and view ***changelogs***.
+
+![explorer](https://github.com/stephenlprice/landing-page/blob/main/assets/images/product/explorer.gif?raw=true)
+
 
 ![get-started-icon](https://img.icons8.com/cotton/128/000000/launch-rocket.png)
 
