@@ -1,6 +1,6 @@
 ![API Guild](../assets/images/apiguild.png)
 
-<span style="text-align:center"><img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80" alt="Api Guild"></span>
+<div style="display: block; margin: auto"><img src="https://github.com/stephenlprice/landing-page/blob/main/assets/images/apiguild.png?raw=true" alt="API Guild"></div>
 
 # 🧙🏻‍♂️ The API Guild ![API Guild](https://img.icons8.com/ios-filled/2x/api.png)
 
