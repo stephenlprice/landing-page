@@ -41,8 +41,9 @@ Help architects design beautiful APIs quickly. Use `Studio` to write actionable 
 
 ## 📖 Documentation
 
+Provide an amazing developer experience for internal and external developers. Keep your documentation up to date with built-in git webhooks or add the CLI to your CI pipelines. Support multiple versions of documentation with branches.
 
-
+![studio](https://github.com/stephenlprice/landing-page/blob/main/assets/images/product/studio.png?raw=true)
 
 ***
 
