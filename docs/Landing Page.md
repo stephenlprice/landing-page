@@ -53,44 +53,6 @@ Bring stakeholders and partners on board with flexible permissions to start shar
 
 Find APIs, star reusable elements, track dependencies, and try out hosted mocks using Explorer.
 
-* * *
-
-![tutorial-icon](https://img.icons8.com/cotton/128/000000/abc.png)
-
-## Tutorials
-
-<!-- theme: success -->
-
-> 💡 Cover important use cases in dedicated tutorials and walkthroughs.
-
-Have a particular problem you're looking to solve? Explore these use cases.
-
-![governance-icon](https://img.icons8.com/cotton/64/000000/courthouse.png)
-
-#### Governance
-
-Promote reuse, consistency, and quality across your company.
-
-[Learn more](https://meta.stoplight.io/docs/platform-docs/docs/2.-governance/a.overview.md)
-
-![design-icon](https://img.icons8.com/cotton/64/000000/color-palette.png)
-
-#### Design
-
-Help architects design beautiful APIs quickly.
-
-[Learn more](https://meta.stoplight.io/docs/platform-docs/docs/3.-design/a.overview.md)
-
-![documentation-icon](https://img.icons8.com/cotton/64/000000/spaceship-launch-documentation.png)
-
-#### Developer Experience
-
-Provide an amazing developer experience for internal and external developers.
-
-[Learn more](https://meta.stoplight.io/docs/platform-docs/docs/4.-developer-experience/a.overview.md)
-
-Can't find what you're looking for? [Contact sales](#were-here-to-help)
-
 ***
 
 ## Liked what you saw?
