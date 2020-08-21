@@ -33,6 +33,8 @@ Use the `Explorer` funcionality to [find APIs](explore), try out hosted ***mock 
 
 Help architects design beautiful APIs quickly. Use `Studio` to write actionable ***API descriptions*** that can power your development workflow. Enjoy the benefits of a ***split-stack development***, up-to-date documentation and the developer experience you deserve!
 
+![API Guild](https://github.com/stephenlprice/landing-page/blob/main/assets/images/logos/apiguild.png?raw=true)
+
 ## 📖 Documentation
 
 
