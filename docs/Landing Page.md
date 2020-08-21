@@ -33,7 +33,11 @@ Use the `Explorer` funcionality to [find APIs](explore), try out hosted ***mock 
 
 Help architects design beautiful APIs quickly. Use `Studio` to write actionable ***API descriptions*** that can power your development workflow. Enjoy the benefits of a ***split-stack development***, up-to-date documentation and the developer experience you deserve!
 
-![API Guild](https://github.com/stephenlprice/landing-page/blob/main/assets/images/logos/apiguild.png?raw=true)
+![studio](https://github.com/stephenlprice/landing-page/blob/main/assets/images/product/studio.png?raw=true)
+
+<!-- theme: info -->
+
+>Connect Git repos to collaborate on OpenAPI descriptions, JSON Schemas, and markdown articles into your workspace or publish your local files via CLI by [clicking here](add/projects). 🚀
 
 ## 📖 Documentation
 
