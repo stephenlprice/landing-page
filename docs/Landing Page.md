@@ -27,7 +27,7 @@ Use the `Explorer` funcionality to [find APIs](explore), try out hosted ***mock 
 
 <!-- theme: info -->
 
->💡 Add projects into the workspace so that others can find and ***USE*** your APIs. Never again will someone build an endpoint to replace your hardwork!
+>💡 [Add projects](add/projects) into the workspace so that others can find and ***USE*** your APIs. Never again will someone build an endpoint to replace your hardwork!
 
 ## 🛠 Design
 
@@ -91,75 +91,6 @@ Provide an amazing developer experience for internal and external developers.
 
 Can't find what you're looking for? [Contact sales](#were-here-to-help)
 
-* * *
-
-![explore-icon](https://img.icons8.com/cotton/64/000000/search-in-cloud.png)
-
-## Explore APIs
-
-<!-- theme: success -->
-
-> 💡 List APIs for users to easily discover and consume them.
->
-> Notice the tabs? 😉 Read more about [Stoplight Flavoured Markdown](https://meta.stoplight.io/docs/studio/docs/Documentation/03a-stoplight-flavored-markdown.md).
-
-Take a look at our APIs and imagine what you could build.
-
-<!--
-type: tab
-title: Amazing API - I
--->
-
-**Amazing API**
-
-Use this amazing API to **be awesome**.
-
-- [Getting Started](<>)
-- [Do amazing things](<>)
-- [API Reference](<>)
-- [Try out API](<>)
-
-<!--
-type: tab
-title: Not an Amazing API
--->
-
-**Not so amazing API**
-
-Improve the design of this API in Studio and let users do amazing things with it.
-
-- [Getting Started](link-here)
-- [API Reference](link-here)
-- [Try out API](link-here)
-
-<!--
-type: tab
-title: Amazing API - II
--->
-
-**Amazing API**
-
-Use this even more amazing API to **do even more amazing things**.
-
-- [Getting Started](link-here)
-- [API Reference](link-here)
-- [Try out API](link-here)
-
-<!-- type: tab-end -->
-
-* * *
-
-![faqs-icon](https://img.icons8.com/cotton/64/000000/scroll--v1.png)
-
-## FAQs
-
-<!-- theme: success -->
-
-> 💡 Add a section for FAQs to help users solve issues quickly.
->
-> Adding links and icons can be useful. _Reminder: This a template - with useful tips and trick though_
-
-
 ***
 
 ## Liked what you saw?
@@ -168,19 +99,27 @@ Get in touch and let us know how we can help.
 
 <!--
 type: tab
-title: 🧙🏼‍♂️ Community Support
+title: 🦸🏼‍♀️ Contact Sales
+-->
+
+Contact sales at [sales@stoplight.io](mailto:sales@stoplight.io) to get help from our team of in-house experts.
+
+<!--
+type: tab
+title: 🧙🏼‍♂️ Contact Support
+-->
+
+Contact Support at [support@stoplight.io](mailto:support@stoplight.io) for help with your hardest technical questions.
+
+
+<!--
+type: tab
+title: 👋 Ask the Community
 -->
 
 Ask a peer in our community forum about how they use the Stoplight Platform.
 
 [Go to Community](https://community.stoplight.io)
-
-<!--
-type: tab
-title: 🦸🏼‍♀️ Contact Sales
--->
-
-Contact sales at [sales@stoplight.io](mailto:sales@stoplight.io) to get help from our team of in-house experts.
 
 <!-- type: tab-end -->
 
