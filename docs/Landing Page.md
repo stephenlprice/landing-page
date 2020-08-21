@@ -29,7 +29,9 @@ Use the `Explorer` funcionality to [find APIs](explore), try out hosted ***mock 
 
 >💡 Add projects into the workspace so that others can find and ***USE*** your APIs. Never again will someone build an endpoint to replace your hardwork!
 
-## 🛠 Design 
+## 🛠 Design
+
+Help architects design beautiful APIs quickly. Use `Studio` to write actionable ***API descriptions*** that can power your development workflow. Enjoy the benefits of a ***split-stack development***, up-to-date documentation and the developer experience you deserve!
 
 ## 📖 Documentation
 
