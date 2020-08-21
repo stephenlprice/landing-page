@@ -10,18 +10,28 @@
 ***
 
 ## Getting Started
-<!-- theme: info -->
->Dig into the [documentation and quickstarts](https://meta.stoplight.io) to govern, design, and document APIs. The workspace has you covered with everything from an interactive API explorer, automatic mock servers, OpenAPI designer, API console, code samples in your favorite languages, and comprehensive examples.
 
-## Discovery
+Dig into the [documentation and quickstarts](https://meta.stoplight.io) to govern, design, and document APIs. The workspace has you covered with everything from an interactive API explorer, automatic mock servers, OpenAPI designer, API console, code samples in your favorite languages, and comprehensive examples.
 
-Use the `Explorer` funcionality to search for APIs. Get ***mock server*** URLs, send requests, navigate ***dependency graphs*** and view ***changelogs***.
+<!-- theme: warning -->
+
+>If you are a member of this workspace, please log in [here](auth) 🔐.
+>
+>Don't forget to [invite team members](admin/members) to collaborate on API designs.
+
+## 🔎 Discovery
+
+Use the `Explorer` funcionality to [find APIs](explore), try out hosted ***mock servers***, track ***dependencies***, view ***changelogs*** and star your favorite artifacts.
 
 ![explorer](https://github.com/stephenlprice/landing-page/blob/main/assets/images/product/explorer.gif?raw=true)
 
-## Design
+<!-- theme: info -->
 
-## Documentation
+>💡 Add projects into the workspace so that others can find and ***USE*** your APIs. Never again will someone build an endpoint to replace your hardwork!
+
+## 🛠 Design 
+
+## 📖 Documentation
 
 <!-- theme: success -->
 
@@ -147,18 +157,29 @@ Use this even more amazing API to **do even more amazing things**.
 >
 > Adding links and icons can be useful. _Reminder: This a template - with useful tips and trick though_
 
-**Can I update this landing page?**
 
-Yes, you can edit or completely replace this example template using [Stoplight Flavoured Markdown](https://meta.stoplight.io/docs/studio/docs/Documentation/03a-stoplight-flavored-markdown.md) from the [workspace settings](admin/basics).
+***
 
-**Is this documentation publicly accessible?**
+## Liked what you saw?
 
-You can use this documentation for both public and private use. Adjust project visibility settings to decide which projects are public, internal, or private. Public projects are viewable by anonymous visitors, while internal projects can be accessed by the members of your Stoplight workspace. Private projects can be shared with particular workspace members from the project settings.
+Get in touch and let us know how we can help.
 
-**How do I update the documentation?**
+<!--
+type: tab
+title: 🧙🏼‍♂️ Community Support
+-->
 
-Documentation is always in sync with changes that you make in Studio or your Git repo. The content in your Git repository is your source of truth for the documentation.
+Ask a peer in our community forum about how they use the Stoplight Platform.
 
-**Is it possible to change the theme and publish this to a custom domain?**
+[Go to Community](https://community.stoplight.io)
 
-Both of these features will be available soon.
+<!--
+type: tab
+title: 🦸🏼‍♀️ Contact Sales
+-->
+
+Contact sales at [sales@stoplight.io](mailto:sales@stoplight.io) to get help from our team of in-house experts.
+
+<!-- type: tab-end -->
+
+Built with ❤️ by [Stoplight](https://stoplight.io). Public icons by [Icons S8](https://icons8.com). Created my free logo at [LogoMakr.com](https://logomakr.com/).
