@@ -228,4 +228,4 @@ Ask a peer in our community forum about how they use the Stoplight Platform.
 
 <!-- type: tab-end -->
 
-Built with ❤️ by [Stoplight](https://stoplight.io). Public icons by [Icons S8](https://icons8.com). Created my free logo at [LogoMakr.com](https://logomakr.com/).
+Built with ❤️ by [Stoplight](https://stoplight.io). Public icons by [Icons S8](https://icons8.com). Created my free logo at [LogoMakr.com](https://logomakr.com/). Images from [Unsplash.com](https://unsplash.com/).
