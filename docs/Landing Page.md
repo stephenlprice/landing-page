@@ -35,23 +35,8 @@ Help architects design beautiful APIs quickly. Use `Studio` to write actionable 
 
 ## 📖 Documentation
 
-<!-- theme: success -->
 
-> 💡 Get your users onboarded quickly with the minimum set of steps required to get started.
->
-> You can write getting started articles in Studio or import existing markdown documents. Adding links and icons can be useful. _Reminder: This a template - with valuable tips and trick though_.
 
-[Add Projects](add/projects)
-
-Connect Git repos containing OpenAPI descriptions, JSON Schemas, and markdown articles into your workspace.
-
-[Invite Team Members](admin/members)
-
-Bring stakeholders and partners on board with flexible permissions to start sharing collaborating on your design assets.
-
-[Explore your Projects](explore)
-
-Find APIs, star reusable elements, track dependencies, and try out hosted mocks using Explorer.
 
 ***
 
