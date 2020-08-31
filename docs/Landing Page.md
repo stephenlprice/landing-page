@@ -21,7 +21,7 @@ Dig into the [documentation and quickstarts](https://meta.stoplight.io) to gover
 
 ***
 
-## 🔎 Discovery
+## 🔎 Discover
 
 Use the `Explorer` funcionality to [find APIs](explore), try out hosted ***mock servers***, track ***dependencies***, view ***changelogs*** and star your ***favorite artifacts***.
 
@@ -45,11 +45,11 @@ Help architects design beautiful APIs quickly. Use `Studio` to write actionable 
 
 ***
 
-## 📖 Documentation
+## 📖 Document
 
 Provide an amazing ***developer experience*** for internal and external developers. Keep your documentation up to date with built-in ***git webhooks*** or add the CLI to your CI pipelines. Manage ***multiple versions*** of documentation with branches.
 
-![studio](https://github.com/stephenlprice/landing-page/blob/main/assets/images/product/studio.png?raw=true)
+![studio](https://github.com/stephenlprice/landing-page/blob/main/assets/images/product/docsReqMaker.png?raw=true)
 
 ### Code Generation
 
