@@ -85,7 +85,7 @@ type: tab
 title: 🦸🏼‍♀️ Contact Sales
 -->
 
-Contact sales at [sales@stoplight.io](mailto:sales@stoplight.io) to get help from our team of in-house experts.
+Contact Sales at [sales@stoplight.io](mailto:sales@stoplight.io) to get help from our team of in-house experts.
 
 <!--
 type: tab
